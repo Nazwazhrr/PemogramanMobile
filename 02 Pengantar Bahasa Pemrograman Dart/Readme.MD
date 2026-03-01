@@ -41,7 +41,7 @@ Rangkumlah materi dari codelab ini menjadi poin-poin penting yang dapat Anda gun
 - `%` : modulus (sisa bagi)
 - `-expression` : negasi (membalik nilai)
 
-** - Shortcut operator:**
+**- Shortcut operator:**
 - `+=`
 - `-=`
 - `*=`
@@ -83,7 +83,7 @@ Fitur yang memastikan variabel tidak boleh null kecuali memang diizinkan. Ada 2 
 - Variabel boleh bernilai `null`.
 - Jika tidak diisi, nilainya otomatis `null`.
 
-**Contoh:**
+**Contoh:** <br>
 ![Contoh Nullable](img/Soal4Nullable.png)
 
 ### 2. Late Variable
