@@ -25,14 +25,14 @@ Mengapa sangat penting untuk memahami bahasa pemrograman Dart sebelum kita mengg
 Rangkumlah materi dari codelab ini menjadi poin-poin penting yang dapat Anda gunakan untuk membantu proses pengembangan aplikasi mobile menggunakan framework Flutter.
 
 ### Jawaban
-## Object Orientation (OOP)
+## - Object Orientation (OOP)
 - Dart dirancang menggunakan konsep OOP.
 - Objek menyimpan data (fields) dan kode (methods).
 - Objek dibuat dari blueprint yang disebut class.
 - Mendukung encapsulation, inheritance, abstraction, composition, dan polymorphism.
 
 
-## Operator Aritmatika
+## - Operator Aritmatika
 - `+` : tambah
 - `-` : kurang
 - `*` : kali
@@ -41,18 +41,18 @@ Rangkumlah materi dari codelab ini menjadi poin-poin penting yang dapat Anda gun
 - `%` : modulus (sisa bagi)
 - `-expression` : negasi (membalik nilai)
 
-**Shortcut operator:**
+** - Shortcut operator:**
 - `+=`
 - `-=`
 - `*=`
 - `/=`
 - `~/=`
 
-## Operator Increment dan Decrement
+## - Operator Increment dan Decrement
 - `++var` atau `var++` : menambah nilai variabel sebesar 1
 - `--var` atau `var--` : mengurangi nilai variabel sebesar 1
 
-## Operator Equality dan Relational
+## - Operator Equality dan Relational
 - `==` : memeriksa apakah operan sama
 - `!=` : memeriksa apakah operan berbeda
 - `>` : operan kiri lebih besar dari operan kanan
@@ -60,7 +60,7 @@ Rangkumlah materi dari codelab ini menjadi poin-poin penting yang dapat Anda gun
 - `>=` : operan kiri lebih besar atau sama dengan operan kanan
 - `<=` : operan kiri lebih kecil atau sama dengan operan kanan
 
-## Operator Logical
+## - Operator Logical
 - `!expression` : negasi (kebalikan), true jadi false, false jadi true
 - `||` : logika OR
 - `&&` : logika AND
@@ -76,7 +76,7 @@ Fitur yang memastikan variabel tidak boleh null kecuali memang diizinkan. Ada 2 
 - Variabel wajib diisi nilai awal.
 - Jika tidak diisi, akan terjadi error.
 
-**Contoh:**
+**Contoh:** <br>
 ![Contoh Non-Nullable](img/Soal4Non-Nullable.png)
 
 #### b. Nullable (Dengan ?)
@@ -93,7 +93,7 @@ Fitur yang memastikan variabel tidak boleh null kecuali memang diizinkan. Ada 2 
 - Namun wajib diisi sebelum digunakan.
 - Jika digunakan sebelum diisi, akan terjadi runtime error.
 
-**Contoh:**
+**Contoh:** <br>
 ![Contoh Late Variable](img/Soal4LateVariabel.png)
 
 ---
