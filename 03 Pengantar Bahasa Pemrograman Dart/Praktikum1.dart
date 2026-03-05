@@ -11,7 +11,12 @@ void main() {
 
   if (test == "test2") print("Test2 again");
 
-bool testBaru = true;
+  // String test = "true";
+  // if (test) {
+  //   print("Kebenaran");
+  // }
+
+  bool testBaru = true;
 
   if (testBaru) {
     print("Kebenaran");
