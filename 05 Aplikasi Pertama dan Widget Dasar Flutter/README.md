@@ -45,65 +45,65 @@ Absen   : 13 <br>
 
 3. Langkah 3: Menjalankan aplikasi di perangkat Android menggunakan Wi-Fi <br>
 - Di Android Studio, pilih Pair Devices Using Wi-Fi dari menu drop-down konfigurasi run. Dialog Pair devices over Wi-Fi akan terbuka. <br>
-![prak2langkah3](img/Praktikum2Langkah3-1.png)<br>
+![prak2langkah3](img/Praktikum2_Langkah3.png)<br>
 
 - Buka Opsi developer, scroll ke bawah ke bagian Proses debug, lalu aktifkan Proses debug nirkabel.<br>
-![prak2langkah3](img/Praktikum2Langkah3-2.jpeg)<br>
+![prak2langkah3](img/Praktikum2_Langkah3(2).jpeg)<br>
 
 - Pada pop-up Izinkan proses debug nirkabel di jaringan ini?, pilih Allow.<br>
-![prak2langkah3](img/Praktikum2Langkah3-3.jpeg)<br>
+![prak2langkah3](img/Praktikum3_Langkah1(3).png.jpeg)<br>
 
 - Jika Anda ingin menyambungkan perangkat dengan kode QR, pilih Pair device with QR code, lalu pindai kode QR di komputer Anda. Atau, jika Anda ingin menyambungkan perangkat dengan kode penghubung, pilih Pair device with pairing code, lalu masukkan 6 digit kode. <br>
-![prak2langkah3](img/Praktikum2Langkah3-4.jpeg)<br>
 
 - Klik jalankan dan Anda dapat men-deploy aplikasi ke perangkat.<br>
-![prak2langkah3](img/Praktikum2Langkah3-5.png)<br>
-![prak2langkah3](img/Praktikum2Langkah3-6.jpeg)<br>
+
 
 
 ## Praktikum 3: Membuat Repository GitHub dan Laporan Praktikum
 1. (Skip ke langkah 11). Lalu coba running project hello_world dengan tekan F5 atau Run > Start Debugging. Tunggu proses kompilasi hingga selesai, maka aplikasi flutter pertama Anda akan tampil seperti berikut. <br>
-![prak3langkah1](img/Praktikum3Langkah1.png)<br>
+![prak3langkah1](img/Praktikum3_Langkah1.png)<br>
+![prak3langkah1](img/Praktikum3_Langkah1(2).jpeg)<br>
 
 2. Silakan screenshot seperti pada Langkah 11, namun teks yang ditampilkan dalam aplikasi berupa nama lengkap Anda. Simpan file screenshot dengan nama 01.png pada folder images (buat folder baru jika belum ada) di project hello_world Anda. Lalu ubah isi README.md seperti berikut, sehingga tampil hasil screenshot pada file README.md. Kemudian push ke repository Anda. <br>
-![prak3langkah2](img/Praktikum3Langkah2-1.jpg)<br>
-![prak3langkah2](img/Praktikum3Langkah2-2.jpeg)<br>
+![prak3langkah2](img/Praktikum3_Langkah2.png)<br>
+![prak3langkah2](img/01.jpeg)<br>
+![prak3langkah2](img/Praktikum3_Langkah2(2).png)<br>
 
 ## Praktikum 4: Menerapkan Widget Dasar
 1. Langkah 1: Text Widget
 - Isi file text_widget.dart<br>
-![prak4langkah1](img/Praktikum4Langkah1-1.jpg)<br>
+![prak4langkah1](img/Praktikum4_Langkah1.png)<br>
 - Isi file main.dart<br>
-![prak4langkah1](img/Praktikum4Langkah1-2.png)<br>
+![prak4langkah1](img/Praktikum4_Langkah1(2).png)<br>
 - Hasil<br>
-![prak4langkah1](img/Praktikum4Langkah1-3.jpeg)<br>
+![prak4langkah1](img/Praktikum4_Langkah1(3).jpeg)<br>
 
 2. Langkah 2: Image Widget
 - Isi file image_widget.dart<br>
-![prak4langkah2](img/Praktikum4Langkah2-1.jpeg)<br>
+![prak4langkah2](img/Praktikum4_Langkah2.png)<br>
 - Isi file pubspec.yaml<br>
-![prak4langkah2](img/Praktikum4Langkah2-2.jpg)<br>
+![prak4langkah2](img/Praktikum4_Langkah2(2).png)<br>
 - Isi file main.dart<br>
-![prak4langkah2](img/Praktikum4Langkah2-3.png)<br>
+![prak4langkah2](img/Praktikum4_Langkah2(3).png)<br>
 - Hasil<br>
-![prak4langkah2](img/Praktikum4Langkah2-4.jpeg)<br>
+![prak4langkah2](img/Praktikum4_Langkah2(4).jpeg)<br>
 
 ## Praktikum 5: Menerapkan Widget Material Design dan iOS Cupertino
 1. Langkah 1: Cupertino Button dan Loading Bar
 - Isi file loading_cupertino.dart<br>
-![prak5langkah1](img/Praktikum5Langkah1.jpg)<br>
+![prak5langkah1](img/Praktikum5_Langkah1.png)<br>
 - Isi file main.dart<br>
-![prak5langkah1](img/Praktikum5Langkah1-2.jpeg)<br>
+![prak5langkah1](img/Praktikum5_Langkah1(2).png)<br>
 - Hasil <br>
-![prak5langkah1](img/Praktikum5Langkah1-3.jpeg)<br>
+![prak5langkah1](img/Praktikum5_Langkah1(3).jpeg)<br>
 
 2. Langkah 2: Floating Action Button (FAB)
 - Isi file fab_widget.dart<br>
-![prak5langkah2](img/Praktikum5Langkah2.jpg)<br>
+![prak5langkah2](img/Praktikum5_Langkah2.png)<br>
 - Isi file main.dart <br>
-![prak5langkah2](img/Praktikum5Langkah2-2.jpeg)<br>
+![prak5langkah2](img/Praktikum5_Langkah2(2).png)<br>
 - Hasil <br>
-![prak5langkah2](img/Praktikum5Langkah2-3.jpeg)<br>
+![prak5langkah2](img/Praktikum5_Langkah2(3).jpeg)<br>
 
 3. Langkah 3: Scaffold Widget
 - Isi file main.dart<br>
