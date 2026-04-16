@@ -24,25 +24,24 @@ Absen   : 13 <br>
 ![prak2langkah1](img/Praktikum2_Langkah1.jpeg)<br>
 - Kembali ke Settings, klik menu Sistem > Opsi developer<br>
 ![prak2langkah1](img/Praktikum2_Langkah1(2).jpeg)<br>
-![prak2langkah1](img/Praktikum2_Langkah2(3).jpeg)<br>
+![prak2langkah1](img/Praktikum2_Langkah1(3).jpeg)<br>
 - Klik tombol Proses debug USB<br>
-![prak2langkah1](img/Praktikum2_Langkah2(4).jpeg)<br>
+![prak2langkah1](img/Praktikum2_Langkah1(4).jpeg)<br>
 - Menginstall driver USB Google di Android Studio
-![prak2langkah1](img/Praktikum2_Langkah2(5).jpeg)<br>
+![prak2langkah1](img/Praktikum2_Langkah1(5).png)<br>
 
 2. Langkah 2: Menjalankan aplikasi di perangkat Android menggunakan kabel <br>
 - Sambungkan perangkat Android ke komputer menggunakan kabel USB. Dialog yang meminta Anda mengizinkan proses debug USB akan muncul di perangkat. Pilih kotak centang Always allow from this computer, lalu ketuk OK.<br>
-![prak2langkah2](img/Praktikum2Langkah2-)<br>
+![prak2langkah2](img/Praktikum1_Langkah2.jpeg)<br>
 
 - Lihat apakah device Android sudah terhubung. Pastikan device tersebut aktif / terpilih pada saat menjalankan aplikasi. <br>
-![prak2langkah2](img/Praktikum2Langkah2-2.png)<br>
+![prak2langkah2](img/Praktikum2_Langkah2(2).png)<br>
 
 - Jalankan aplikasi, tunggu proses install aplikasi di device Android <br>
-![prak2langkah2](img/Praktikum2Langkah2-2.png)<br>
+![prak2langkah2](img/Praktikum2_Langkah2(3).png)<br>
 
 - Hasil dari install aplikasi di Android. <br>
-![prak2langkah2](img/Praktikum2Langkah2-3.jpeg)<br>
-![prak2langkah2](img/Praktikum2Langkah2-4.jpeg)<br>
+![prak2langkah2](img/Praktikum2_Langkah2(4).jpeg)<br>
 
 3. Langkah 3: Menjalankan aplikasi di perangkat Android menggunakan Wi-Fi <br>
 - Di Android Studio, pilih Pair Devices Using Wi-Fi dari menu drop-down konfigurasi run. Dialog Pair devices over Wi-Fi akan terbuka. <br>
