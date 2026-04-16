@@ -1,33 +1,34 @@
 # Laporan Praktikum 05 : Aplikasi Pertama dan Widget Dasar Flutter
 
-Nama    : Nazwa Azzahra Audina <br>
+Nama    : Nazwa Azahra Audina <br>
 NIM     : 244107060146 <br>
 Absen   : 13 <br>
 
 ## Praktikum 1: Membuat Project Flutter Baru
 1. Langkah 1: Buka VS Code, lalu tekan tombol Ctrl + Shift + P maka akan tampil Command Palette, lalu ketik Flutter. Pilih New Application Project.<br>
-![prak1langkah1](img/Praktikum1Langkah1.png)<br>
-![prak1langkah1](img/Praktikum1Langkah1-2.png)<br>
+![prak1langkah1](img/Praktikum1_Langkah1.jpeg)<br>
+![prak1langkah1](img/Praktikum1_Langkah1(2).jpeg)<br>
 
 2. Langkah 2: Kemudian buat folder sesuai style laporan praktikum yang Anda pilih. Disarankan pada folder dokumen atau desktop atau alamat folder lain yang tidak terlalu dalam atau panjang. Lalu pilih Select a folder to create the project in.
+![prak1langkah1](img/Praktikum1_Langkah2.jpeg)<br>
 
 3. Langkah 3: Buat nama project flutter hello_world seperti berikut, lalu tekan Enter. Tunggu hingga proses pembuatan project baru selesai. <br>
-![prak1langkah3](img/Praktikum1Langkah3.png)<br>
+![prak1langkah3](img/Praktikum1_Langkah3.jpeg)<br>
 4. Langkah 4: Jika sudah selesai proses pembuatan project baru, pastikan tampilan seperti berikut. Pesan akan tampil berupa "Your Flutter Project is ready!" artinya Anda telah berhasil membuat project Flutter baru.<br>
-![prak1langkah4](img/Praktikum1Langkah4.png)<br>
+![prak1langkah4](img/Praktikum1_Langkah4.jpeg)<br>
 
 
 ## Praktikum 2: Menghubungkan Perangkat Android atau Emulator
 1. Langkah 1: Mengaktifkan proses debug USB <br>
 - Ketuk Nomor bentukan tujuh kali, kemudian akan masuk ke mode developer<br>
-![prak2langkah1](img/Praktikum2Langkah1-1.jpeg)<br>
-![prak2langkah1](img/Praktikum2Langkah1-2.jpeg)<br>
+![prak2langkah1](img/Praktikum2_Langkah1.jpeg)<br>
 - Kembali ke Settings, klik menu Sistem > Opsi developer
-![prak2langkah1](img/Praktikum2Langkah1-3.jpeg)<br>
+![prak2langkah1](img/Praktikum2_Langkah1(2).jpeg)<br>
+![prak2langkah1](img/Praktikum2_Langkah2(3).jpeg)<br>
 - Klik tombol Proses debug USB
-![prak2langkah1](img/Praktikum2Langkah1-4.jpeg)<br>
+![prak2langkah1](img/Praktikum2_Langkah2(4).jpeg)<br>
 - Menginstall driver USB Google di Android Studio
-![prak2langkah1](img/Praktikum2Langkah1-5.png)<br>
+![prak2langkah1](img/Praktikum2_Langkah2(5).jpeg)<br>
 
 2. Langkah 2: Menjalankan aplikasi di perangkat Android menggunakan kabel <br>
 - Sambungkan perangkat Android ke komputer menggunakan kabel USB. Dialog yang meminta Anda mengizinkan proses debug USB akan muncul di perangkat. Pilih kotak centang Always allow from this computer, lalu ketuk OK.<br>
