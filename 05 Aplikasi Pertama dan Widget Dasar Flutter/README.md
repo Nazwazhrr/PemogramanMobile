@@ -28,11 +28,11 @@ Absen   : 13 <br>
 - Klik tombol Proses debug USB<br>
 ![prak2langkah1](img/Praktikum2_Langkah2(4).jpeg)<br>
 - Menginstall driver USB Google di Android Studio
-![prak2langkah1](img)<br>
+![prak2langkah1](img/Praktikum2_Langkah2(5).jpeg)<br>
 
 2. Langkah 2: Menjalankan aplikasi di perangkat Android menggunakan kabel <br>
 - Sambungkan perangkat Android ke komputer menggunakan kabel USB. Dialog yang meminta Anda mengizinkan proses debug USB akan muncul di perangkat. Pilih kotak centang Always allow from this computer, lalu ketuk OK.<br>
-![prak2langkah2](img/Praktikum2Langkah2-1.jpeg)<br>
+![prak2langkah2](img/Praktikum2Langkah2-)<br>
 
 - Lihat apakah device Android sudah terhubung. Pastikan device tersebut aktif / terpilih pada saat menjalankan aplikasi. <br>
 ![prak2langkah2](img/Praktikum2Langkah2-2.png)<br>
