@@ -107,25 +107,26 @@ Absen   : 13 <br>
 
 3. Langkah 3: Scaffold Widget
 - Isi file main.dart<br>
-![prak5langkah3](img/Praktikum5Langkah3-1.jpg)<br>
-![prak5langkah3](img/Praktikum5Langkah3-2.jpg)<br>
-![prak5langkah3](img/Praktikum5Langkah3-3.jpg)<br>
+![prak5langkah3](img/Praktikum5_Langkah3.png)<br>
+![prak5langkah3](img/Praktikum5_Langkah3(2).png)<br>
+
+
 - Hasil<br>
-![prak5langkah3](img/Praktikum5Langkah3-4.jpeg)<br>
+![prak5langkah3](img/Praktikum5_Langkah3(3).jpeg)<br>
+![prak5langkah3](img/Praktikum5_Langkah3(4).jpeg)<br>
 4. Langkah 4: Dialog Widget
 - Isi file main.dart<br>
-![prak5langkah4](img/Praktikum5Langkah4-1.jpg)<br>
-![prak5langkah4](img/Praktikum5Langkah4-2.jpg)<br>
-![prak5langkah4](img/Praktikum5Langkah4-3.jpg)<br>
+![prak5langkah4](img/Praktikum5_Langkah4.png)<br>
+![prak5langkah4](img/Praktikum5_Langkah4(2).png)<br>
 - Hasil<br>
-![prak5langkah4](img/Praktikum5Langkah4-4.jpeg)<br>
-![prak5langkah4](img/Praktikum5Langkah4-5.jpeg)<br>
+![prak5langkah4](img/Praktikum5_Langkah4(3).jpeg)<br>
+![prak5langkah4](img/Praktikum5_Langkah4(4).jpeg)<br>
 5. Langkah 5: Input dan Selection Widget
 - Isi file main.dart<br>
-![prak5langkah5](img/Praktikum5Langkah5-1.jpg)<br>
+![prak5langkah5](img/Praktikum5_Langkah5.png)<br>
 - Hasil<br>
-![prak5langkah5](img/Praktikum5Langkah5-2.jpeg)<br>
-![prak5langkah5](img/Praktikum5Langkah5-3.jpeg)<br>
+![prak5langkah5](img/Praktikum5_Langkah5(2).jpeg)<br>
+![prak5langkah5](img/Praktikum5_Langkah5(3).jpeg)<br>
 6. Langkah 6: Date and Time Pickers
 - Isi file main.dart<br>
 ![prak5langkah6](img/Praktikum5Langkah6-1.jpg)<br>
