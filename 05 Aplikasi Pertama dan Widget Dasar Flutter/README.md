@@ -129,9 +129,10 @@ Absen   : 13 <br>
 ![prak5langkah5](img/Praktikum5_Langkah5(3).jpeg)<br>
 6. Langkah 6: Date and Time Pickers
 - Isi file main.dart<br>
-![prak5langkah6](img/Praktikum5Langkah6-1.jpg)<br>
-![prak5langkah6](img/Praktikum5Langkah6-2.jpg)<br>
-![prak5langkah6](img/Praktikum5Langkah6-3.jpg)<br>
+![prak5langkah6](img/Praktikum5_Langkah6.png)<br>
+![prak5langkah6](img/Praktikum5_Langkah6(2).png)<br>
 - Hasil <br>
-![prak5langkah6](img/Praktikum5Langkah6-4.jpeg)<br>
-![prak5langkah6](img/Praktikum5Langkah6-5.jpeg)<br>
+![prak5langkah6](img/Praktikum5_Langkah6(3).jpeg)<br>
+![prak5langkah6](img/Praktikum5_Langkah6(4).jpeg)<br>
+
+
