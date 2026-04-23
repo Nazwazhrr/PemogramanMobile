@@ -6,7 +6,7 @@ Absen   : 13 <br>
 
 ## Praktikum 1: Membangun Layout di Flutter
 1. Langkah 1: Buat Project Baru<br>
-![prak1langkah1](img/)<br>
+![prak1langkah1](img/Praktikum1_Langkah1.png)<br>
 
 2. Langkah 2: Buka file lib/main.dart<br>
 ![prak1langkah2](img/Praktikum1_Langkah2.png)<br>
